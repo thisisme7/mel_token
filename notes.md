@@ -1,0 +1,14 @@
+Creating token AutYH2wk19tCCuby1jCJvrXihne38vbpXpkG7eNJKwtj under program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
+
+Address:  AutYH2wk19tCCuby1jCJvrXihne38vbpXpkG7eNJKwtj
+Decimals:  9
+
+Signature: 5gs2rFrjZRepDQxf7QonHHuAFURUkr4sNCGhKtZbMevZ7hwLQvadR7kGch3aVSi5hMnm8JFQ45TuXT2dgn32uFgC
+
+Creating account 47HJk7UrTd2KVUDk1Z61txMfdykVG4T6MN67i83LaZpw
+
+Signature: 4fuptjRAQJi7RT4GYeeWRSD4oFBzubMaQYWYSdLaAnKFiSEteUcjZFjsEQ5WDdus9goTJHuPCyxM4agiMPZgCMjD
+
+
+
+spl-token initialize-metadata AutYH2wk19tCCuby1jCJvrXihne38vbpXpkG7eNJKwtj "Melanie" "MEL" "<YOUR_TOKEN_URI>"
